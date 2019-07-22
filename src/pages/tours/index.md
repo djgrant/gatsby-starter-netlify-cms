@@ -1,6 +1,7 @@
 ---
-templateKey: 'index-page'
-title: Personal city tours with a trusted independent guide
+templateKey: 'about-page'
+path: /tours
+title: Tours
 ---
 
 ### The traveller first
