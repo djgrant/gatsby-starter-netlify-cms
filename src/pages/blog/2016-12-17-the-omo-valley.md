@@ -5,9 +5,6 @@ date: 2019-07-22T15:04:10.000Z
 featuredpost: false
 
 description: The Omo Valley is a cultural melting pot named after its geographical location and the famous omo river.
-tags:
-  - tours
-  - omo valley
 ---
 
 A cultural melting pot named after its geographical location and the famous omo river, the south omo zone is a spectacularly beautiful area with diverse attraction’s,ecosystems, cultures & language.

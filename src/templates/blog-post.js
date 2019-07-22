@@ -5,7 +5,7 @@ import { graphql, Link } from 'gatsby';
 import Layout from '../components/organisms/layout';
 import HTML from '../components/organisms/html';
 
-export const BlogPost = ({ html, description, tags, title }) => (
+export const BlogPost = ({ html, description, title }) => (
   <Layout>
     <Helmet titleTemplate="%s | Blog">
       <title>{`${title}`}</title>
@@ -14,18 +14,6 @@ export const BlogPost = ({ html, description, tags, title }) => (
     <h1>{title}</h1>
     <p>{description}</p>
     <HTML content={html} />
-    {tags && tags.length ? (
-      <div>
-        <h4>Tags</h4>
-        <ul>
-          {tags.map(tag => (
-            <li key={tag + `tag`}>
-              <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-            </li>
-          ))}
-        </ul>
-      </div>
-    ) : null}
   </Layout>
 );
 
@@ -38,7 +26,6 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
-        tags
       }
     }
   }
