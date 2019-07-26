@@ -8,9 +8,9 @@ title: Tours
 
 Duration: half day
 
-In this tour, we will go to the Bata Mariam church to see the original painting of Michelangelo, the National Museum to see Lucy, the first human being skeleton. We will go to the Ethnological museum in the beautiful Addis Ababa university. We will have a coffee at Tomoca, the first coffee house in Ethiopia.
+In this tour, we will go to the Bata Mariam church to see the original painting of Michelangelo, and the National Museum to see Lucy, the first human being skeleton. We will go to the Ethnological museum in the beautiful Addis Ababa university. We will have a coffee at Tomoca, the first coffee house in Ethiopia.
 
-## Addis Ababa markets tour
+## Addis Ababa Markets Tour
 
 Duration: half day
 
