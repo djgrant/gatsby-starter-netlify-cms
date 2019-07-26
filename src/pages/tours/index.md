@@ -20,6 +20,6 @@ We will go to Merkato, the biggest open market in Africa. We will also go to Shr
 
 Duration: 3 days
 
-We take the bus from Addis to Hawassa – 275Km (about 3.5 hours) in the morning. We have lunch in Hawassa famous for its delicious fish. In the afternoon, we go to Hawassa lake and we stay there until the sunset. We have traditional dinner. There are many options for nightlife if you like. Then next day (very early in the morning), we go to the fish market. Afterwards, we go to Wondo Ganat – the natual hot springs from the mountains discovered by King Haile Silassie. We come back on the third day where we can have an optional stopover at Shashamanne to meet the famous Rastafarian community.
+We will take the bus from Addis to Hawassa – 275Km (about 3.5 hours) in the morning. We will have lunch in Hawassa, famous for its delicious fish. In the afternoon, we will go to Hawassa lake and stay there until the sunset. There are many options for nightlife if you like. The next day (very early in the morning), we will go to the fish market. Afterwards, we can travel by local transport to Wondo Ganat, the natual hot springs from the mountains discovered by King Haile Silassie. On the third day we will travel back to Addis, where we can have an optional stopover at Shashamanne to meet the famous Rastafarian community.
 
 We can arrange accommodation and meals, at your request.
