@@ -4,7 +4,7 @@ path: /tours
 title: Tours
 ---
 
-## Addis Ababa City Tour
+## Addis Ababa City Tour
 
 Duration: half day
 
