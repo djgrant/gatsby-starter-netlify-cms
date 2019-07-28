@@ -1,12 +1,18 @@
 import React from 'react';
 import { graphql } from 'gatsby';
+import Box from '../components/atoms/box';
+import Jumbotron from '../components/molecules/jumbotron';
 import Layout from '../components/organisms/layout';
 import HTML from '../components/organisms/html';
 
 export const IndexPage = ({ title, list, html }) => (
   <Layout>
-    <h1>{title}</h1>
-    <HTML content={html} />
+    <Jumbotron>
+      <h1>{title}</h1>
+    </Jumbotron>
+    <Box container gutter pt={[3, 4]}>
+      <HTML content={html} />
+    </Box>
   </Layout>
 );
 

@@ -9,4 +9,4 @@ Welcome to Addis Ababa! Ethiopia's thriving capital city and historical center. 
 
 I offer a selection of tours that can be tailored to fit in with your travel ambitions. My priority is to make your trip to Ethiopia as enjoyable as possible by offering you my local knowledge and helping you navigate your way through Addis Ababa and the Ethiopian South.
 
-See the [selection of tours](/tours) for more details.
+See the [tours page](/tours) for more details.
