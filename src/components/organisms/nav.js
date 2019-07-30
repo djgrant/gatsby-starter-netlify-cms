@@ -4,7 +4,6 @@ import Box from '../atoms/box';
 
 const StyledNav = props => (
   <Box
-    container
     gutter
     display={['block', 'flex']}
     flexDirection="row"
