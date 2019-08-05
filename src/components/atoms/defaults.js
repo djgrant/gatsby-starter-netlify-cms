@@ -1,5 +1,4 @@
 import styled from '@emotion/styled';
-import { css } from '@emotion/core';
 import { raw } from '../../utils/styled';
 
 const mq1 = '@media (min-width: 40em)';

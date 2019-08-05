@@ -74,7 +74,6 @@ const Nav = () => {
         <NavLink to="/tours">Tours</NavLink>
         <NavLink to="/guides">Guides</NavLink>
         <NavLink to="/reviews">Reviews</NavLink>
-        <NavLink to="/blog">Blog</NavLink>
         <NavLink to="/contact">Contact</NavLink>
       </NavLinks>
     </NavContainer>
