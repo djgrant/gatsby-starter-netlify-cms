@@ -47,8 +47,14 @@ const NavLink = props => (
 );
 
 const Logo = () => (
-  <Link to="/" title="Logo" color="red">
-    <h2>Addis Tour Guide</h2>
+  <Link
+    to="/"
+    title="Logo"
+    color="black"
+    borderBottom="1px solid"
+    borderColor="red"
+  >
+    <h1>Addis Tour Guide</h1>
   </Link>
 );
 
