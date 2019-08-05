@@ -1,8 +1,20 @@
 import React from 'react';
 import Box from '../atoms/box';
 
-const Jumbotron = ({ children }) => (
-  <Box bg="tomato" minHeight={8}>
+const Jumbotron = ({ children, image, ...props }) => (
+  <Box
+    {...props}
+    minHeight={9}
+    style={{
+      backgroundImage: `url(${
+        image && !!image.childImageSharp
+          ? image.childImageSharp.fluid.src
+          : image
+      })`,
+      backgroundPosition: `bottom`,
+      backgroundSize: 'cover',
+    }}
+  >
     <Box container gutter py={4}>
       {children}
     </Box>

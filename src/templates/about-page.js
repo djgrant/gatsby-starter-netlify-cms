@@ -7,7 +7,7 @@ import HTML from '../components/organisms/html';
 
 export const AboutPage = ({ html, title }) => (
   <Layout>
-    <Jumbotron>
+    <Jumbotron bg="grey.0">
       <h1>{title}</h1>
     </Jumbotron>
     <Box container gutter pt={[3, 4]}>

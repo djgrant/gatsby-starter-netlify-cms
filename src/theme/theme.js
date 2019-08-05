@@ -5,6 +5,7 @@ const theme = {
   containerWidths: [512, 1024],
   gutter: [{ px: [2, 3] }, { px: [3, 4] }, { px: [4, 5] }],
   colors: {
+    grey: ['#eee', '#888', '#444'],
     blue: '#07c',
     red: '#e10',
   },

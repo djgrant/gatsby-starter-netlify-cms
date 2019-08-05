@@ -1,6 +1,7 @@
 ---
 templateKey: 'index-page'
 title: Personal city tours with a trusted independent guide
+image: /img/cityscape.jpg
 ---
 
 Welcome to Addis Ababa! Ethiopia's thriving capital city and historical center. My name is Abenezere Endale and it is a pleasure to welcome you to my city.

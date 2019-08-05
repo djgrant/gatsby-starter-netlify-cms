@@ -1,5 +1,12 @@
 import styled from '@emotion/styled';
-import { space, layout, color, flexbox, borders } from 'styled-system';
+import {
+  space,
+  layout,
+  color,
+  flexbox,
+  borders,
+  typography,
+} from 'styled-system';
 import { css, ifProp, inline } from '../../utils/styled';
 
 const Box = styled.div(
@@ -9,6 +16,7 @@ const Box = styled.div(
   flexbox,
   color,
   borders,
+  typography,
   ifProp('gutter', (props, themeGet) => themeGet(`gutter.${props.gutter}`)),
   ifProp('container', (props, themeGet) => ({
     maxWidth: themeGet(`containerWidths.${props.container}`),

@@ -1,14 +1,15 @@
 import React, { useState } from 'react';
-import { Link } from 'gatsby';
+import Link from '../atoms/link';
 import Box from '../atoms/box';
+import Hamburger from '../molecules/hamburger';
 
-const StyledNav = props => (
+const NavContainer = props => (
   <Box
     gutter
     display={['block', 'flex']}
     flexDirection="row"
     justifyContent="space-between"
-    py={[3, 4]}
+    py={['24px', 4]}
     {...props}
   />
 );
@@ -35,29 +36,28 @@ const NavLink = props => (
     pl={[0, 2, 4]}
     borderTop={['1px solid #ccc', 'none']}
   >
-    <Link {...props} style={{ display: 'block', width: '100%' }} />
+    <Link
+      {...props}
+      color="grey.1"
+      fontWeight="bold"
+      display="block"
+      width="100%"
+    />
   </Box>
 );
 
-const Hamburger = props => (
-  <Box {...props}>
-    <button role="presentation">Menu</button>
-    <div>
-      <span />
-      <span />
-      <span />
-    </div>
-  </Box>
+const Logo = () => (
+  <Link to="/" title="Logo" color="red">
+    <h2>Addis Tour Guide</h2>
+  </Link>
 );
 
 const Nav = () => {
   const [isActive, setActive] = useState(false);
   return (
-    <StyledNav as="nav" role="navigation" aria-label="main-navigation">
-      <Box display="flex" justifyContent="space-between">
-        <Link to="/" title="Logo">
-          <h3>Addis Tour Guide</h3>
-        </Link>
+    <NavContainer as="nav" role="navigation" aria-label="main-navigation">
+      <Box display="flex" justifyContent="space-between" alignItems="center">
+        <Logo />
         <Hamburger
           display={['block', 'none']}
           active={isActive}
@@ -71,7 +71,7 @@ const Nav = () => {
         <NavLink to="/blog">Blog</NavLink>
         <NavLink to="/contact">Contact</NavLink>
       </NavLinks>
-    </StyledNav>
+    </NavContainer>
   );
 };
 

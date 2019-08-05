@@ -1,3 +1,4 @@
+import { css as emotionCss } from '@emotion/core';
 import cx from '@styled-system/css';
 import { themeGet } from '@styled-system/theme-get';
 
@@ -9,6 +10,14 @@ const parseStyles = styles => props => {
   if (typeof styles === 'object') return cx(styles);
   if (typeof styles === 'string') return styles;
   return;
+};
+
+export const raw = styles => props => {
+  if (typeof styles === 'function') {
+    const boundThemeGet = (...args) => themeGet(...args)(props);
+    return raw(styles(props, boundThemeGet));
+  }
+  return emotionCss(styles);
 };
 
 export const switchProp = (propKey, switchMap, scaleKeyFallback) => props => {
@@ -28,4 +37,4 @@ export const ifProp = (propKey, styles) => props => {
 
 export const inline = props => cx(props.css);
 
-export const css = cx;
+export const css = parseStyles;

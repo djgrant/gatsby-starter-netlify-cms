@@ -2,9 +2,10 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import { Global } from '@emotion/core';
 import { ThemeProvider } from 'emotion-theming';
+import DefaultStyles from '../atoms/defaults';
 import Nav from './nav';
-import globalStyles from './layout.css';
-import theme from './layout.theme';
+import theme from '../../theme/theme';
+import globalStyles from '../../theme/global';
 import useSiteMetadata from '../../hooks/use-site-metadata';
 
 const TemplateWrapper = ({ children }) => {
@@ -38,6 +39,10 @@ const TemplateWrapper = ({ children }) => {
           href="/img/safari-pinned-tab.svg"
           color="#ff4400"
         />
+        <link
+          href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto:400,700&display=swap"
+          rel="stylesheet"
+        />
         <meta name="theme-color" content="#fff" />
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
@@ -45,7 +50,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:image" content="/img/og-image.jpg" />
       </Helmet>
       <Nav />
-      {children}
+      <DefaultStyles>{children}</DefaultStyles>
     </ThemeProvider>
   );
 };

@@ -1,17 +1,19 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import Box from '../components/atoms/box';
+import Article from '../components/atoms/article';
 import Jumbotron from '../components/molecules/jumbotron';
 import Layout from '../components/organisms/layout';
 import HTML from '../components/organisms/html';
 
-export const IndexPage = ({ title, list, html }) => (
+export const IndexPage = ({ title, image, list, html }) => (
   <Layout>
-    <Jumbotron>
-      <h1>{title}</h1>
-    </Jumbotron>
-    <Box container gutter pt={[3, 4]}>
-      <HTML content={html} />
+    <Jumbotron image={image} />
+    <Box container gutter py={[4, 5]}>
+      <Article>
+        <h2>{title}</h2>
+        <HTML content={html} />
+      </Article>
     </Box>
   </Layout>
 );
@@ -22,6 +24,13 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        image {
+          childImageSharp {
+            fluid(maxWidth: 2048, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
