@@ -10,7 +10,7 @@ const NavContainer = props => (
     display={['block', 'flex']}
     flexDirection="row"
     justifyContent="space-between"
-    py={['24px', 4]}
+    py={['20px', 4]}
     mt="2px"
     {...props}
   />
@@ -20,12 +20,19 @@ const NavLinks = props => (
   <Box
     as="ul"
     display={[props.active ? 'block' : 'none', 'flex']}
+    position={['absolute', 'static']}
     alignItems="center"
-    p={0}
-    pt={['24px', 0]}
+    bg="white"
+    width="100%"
+    left={0}
+    px={[3, 0]}
+    pt={['20px', 0]}
+    pb={[2, 0]}
     m={0}
-    mb={['-24px', 0]}
-    css={{ listStyle: 'none' }}
+    css={{
+      listStyle: 'none',
+      boxShadow: '0 2px 4px rgba(0, 0, 0, .125)',
+    }}
     {...props}
   />
 );

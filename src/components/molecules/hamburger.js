@@ -15,7 +15,7 @@ const StylelessButton = ({ children }) => (
   </button>
 );
 
-const HamburgerLine = () => <Box width="14px" height="2px" my="3px" bg="red" />;
+const HamburgerLine = () => <Box width="14px" height="1px" my="4px" bg="red" />;
 
 const Hamburger = props => (
   <Box {...props}>

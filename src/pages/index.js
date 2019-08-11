@@ -16,7 +16,6 @@ export default () => (
           historical center. My name is Abenezere Endale and it is a pleasure to
           welcome you to my city.
         </p>
-
         <h3>The traveller first</h3>
         <p>
           I offer a selection of tours that can be tailored to fit in with your
