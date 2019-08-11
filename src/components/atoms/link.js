@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
-import { typography, color, border, layout } from 'styled-system';
+import { typography, color, border, layout, space } from 'styled-system';
 import GatsbyLink from 'gatsby-link';
 
-const Link = styled(GatsbyLink)(typography, color, border, layout);
+const Link = styled(GatsbyLink)(typography, color, border, layout, space);
 
 export default Link;

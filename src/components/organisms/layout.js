@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet';
 import { Global } from '@emotion/core';
 import { ThemeProvider } from 'emotion-theming';
 import DefaultStyles from '../atoms/defaults';
+import Box from '../atoms/box';
 import Nav from './nav';
 import theme from '../../theme/theme';
 import globalStyles from '../../theme/global';
@@ -40,7 +41,7 @@ const TemplateWrapper = ({ children }) => {
           color="#ff4400"
         />
         <link
-          href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto:400,700&display=swap"
+          href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto|Montserrat:400,700&display=swap"
           rel="stylesheet"
         />
         <meta name="theme-color" content="#fff" />
@@ -49,7 +50,9 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta property="og:image" content="/img/og-image.jpg" />
       </Helmet>
-      <Nav />
+      <Box container gutter>
+        <Nav borderBottom="1px solid" borderColor="grey.0" />
+      </Box>
       <DefaultStyles>{children}</DefaultStyles>
     </ThemeProvider>
   );

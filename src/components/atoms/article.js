@@ -1,5 +1,6 @@
 import styled from '@emotion/styled';
 import { css } from '@emotion/core';
+import { layout, space } from 'styled-system';
 import { raw } from '../../utils/styled';
 
 const mq1 = '@media (min-width: 40em)';
@@ -20,33 +21,10 @@ const defaultStyles = css`
 
 export default styled.article(
   defaultStyles,
+  layout,
+  space,
   raw(
     (props, get) => `
-    h1 {
-      font-size: ${get('fontSizes.5')}px;
-      ${mq1} {
-        font-size: ${get('fontSizes.6')}px;
-      }
-    }
-    h2 {
-      font-size: ${get('fontSizes.4')}px;
-      ${mq1} {
-        font-size: ${get('fontSizes.5')}px;
-      }
-    }
-    h3 {
-      font-size: ${get('fontSizes.3')}px;
-      ${mq1} {
-        font-size: ${get('fontSizes.4')}px;
-      }
-    }
-    h4 {
-      font-size: ${get('fontSizes.2')}px;
-      ${mq1} {
-        font-size: ${get('fontSizes.3')}px;
-      }
-    }
-
     h1 + .html-content,
     h2 + .html-content {
       margin-top: 20px;
@@ -66,11 +44,19 @@ export default styled.article(
       }
     }
 
-    p + h3 {
-      margin-top: 40px;
+    p + h1,
+    p + h2,
+    p + h3,
+    p + h4,
+    .button + h3 {
+      margin-top: 36px;
       ${mq1} {
-        margin-top: 48px;
+        margin-top: 40px;
       }
+    }
+
+    p + .button {
+      margin-top: 24px;
     }
   `
   )

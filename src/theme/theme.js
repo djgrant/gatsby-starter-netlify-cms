@@ -8,6 +8,17 @@ const theme = {
     grey: ['#eee', '#888', '#444'],
     blue: '#07c',
     red: '#e10',
+    yellow: '#f5cc14',
+    green: '#14b526',
+    flag: [
+      '#14b526',
+      '#4aad3e',
+      '#7ebf1d',
+      '#f5cc14',
+      '#f59f14',
+      '#e3543b',
+      '#e10',
+    ],
   },
   lineHeights: {
     body: 1.5,

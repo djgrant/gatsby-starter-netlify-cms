@@ -13,6 +13,7 @@ const Jumbotron = ({ children, image, ...props }) => (
       })`,
       backgroundPosition: `bottom`,
       backgroundSize: 'cover',
+      marginTop: '-1px',
     }}
   >
     <Box container gutter py={4}>

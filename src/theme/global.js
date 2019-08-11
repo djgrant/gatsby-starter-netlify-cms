@@ -28,6 +28,10 @@ export default css`
     letter-spacing: -1px;
   }
 
+  p {
+    margin: 0;
+  }
+
   a {
     text-decoration: none;
   }
@@ -36,16 +40,5 @@ export default css`
     border: 0;
     padding: 0;
     margin: 0;
-  }
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family: 'Playfair Display', serif;
-    margin: 0;
-    line-height: 1.1;
-    letter-spacing: -1px;
   }
 `;

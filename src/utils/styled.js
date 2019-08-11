@@ -31,7 +31,7 @@ export const switchProp = (propKey, switchMap, scaleKeyFallback) => props => {
 
 export const ifProp = (propKey, styles) => props => {
   const scaleKey = props[propKey];
-  if (!scaleKey) return;
+  if (scaleKey === false || scaleKey === undefined) return;
   return parseStyles(styles);
 };
 

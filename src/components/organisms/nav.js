@@ -1,15 +1,17 @@
 import React, { useState } from 'react';
-import Link from '../atoms/link';
 import Box from '../atoms/box';
+import Link from '../atoms/link';
+import Logo from '../atoms/logo';
 import Hamburger from '../molecules/hamburger';
 
 const NavContainer = props => (
   <Box
-    gutter
+    container
     display={['block', 'flex']}
     flexDirection="row"
     justifyContent="space-between"
     py={['24px', 4]}
+    mt="2px"
     {...props}
   />
 );
@@ -20,9 +22,9 @@ const NavLinks = props => (
     display={[props.active ? 'block' : 'none', 'flex']}
     alignItems="center"
     p={0}
-    pt={[3, 0]}
+    pt={['24px', 0]}
     m={0}
-    mb={[-2, 0]}
+    mb={['-24px', 0]}
     css={{ listStyle: 'none' }}
     {...props}
   />
@@ -34,7 +36,8 @@ const NavLink = props => (
     width={['100%', 'auto']}
     py={[2, 0]}
     pl={[0, 2, 4]}
-    borderTop={['1px solid #ccc', 'none']}
+    borderTop={['1px solid', 'none']}
+    borderColor="grey.0"
   >
     <Link
       {...props}
@@ -46,22 +49,15 @@ const NavLink = props => (
   </Box>
 );
 
-const Logo = () => (
-  <Link
-    to="/"
-    title="Logo"
-    color="black"
-    borderBottom="1px solid"
-    borderColor="red"
-  >
-    <h1>Addis Tour Guide</h1>
-  </Link>
-);
-
-const Nav = () => {
+const Nav = props => {
   const [isActive, setActive] = useState(false);
   return (
-    <NavContainer as="nav" role="navigation" aria-label="main-navigation">
+    <NavContainer
+      as="nav"
+      role="navigation"
+      aria-label="main-navigation"
+      {...props}
+    >
       <Box display="flex" justifyContent="space-between" alignItems="center">
         <Logo />
         <Hamburger
