@@ -1,5 +1,5 @@
 import styled from '@emotion/styled';
-import Box from './Box';
+import Box from './box';
 
 const Card = styled(Box)(() => ({
   borderRadius: '4',
