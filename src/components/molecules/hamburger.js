@@ -26,9 +26,7 @@ const Hamburger = props => (
         alignItems="center"
         color="grey.1"
       >
-        <span style={{ textTransform: 'uppercase', fontSize: '15px' }}>
-          Menu
-        </span>
+        <span style={{ textTransform: 'uppercase' }}>Menu</span>
         <Box ml={1}>
           <HamburgerLine />
           <HamburgerLine />

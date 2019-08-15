@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import styled from '@emotion/styled/macro';
+import { system } from '../../utils/styled';
 import Box from '../atoms/box';
 import Link from '../atoms/link';
 import Logo from '../atoms/logo';
@@ -23,7 +25,7 @@ const NavLinks = props => (
     position={['absolute', 'static']}
     alignItems="center"
     bg="white"
-    width="100%"
+    width={['100%', 'auto']}
     left={0}
     px={[3, 0]}
     pt={['20px', 0]}
@@ -31,11 +33,25 @@ const NavLinks = props => (
     m={0}
     css={{
       listStyle: 'none',
-      boxShadow: '0 2px 4px rgba(0, 0, 0, .125)',
+      // boxShadow: '0 2px 4px rgba(0, 0, 0, .125)',
     }}
     {...props}
   />
 );
+// const NavLinks = styled.ul(
+//   system({
+//     position: 'absolute',
+//     background: 'white',
+//     width: '100%',
+//     left: '0',
+//     listStyle: 'none',
+//     boxShadow: '0 2px 4px rgba(0, 0, 0, 0.125)',
+//     margin: '0',
+//     display: props => [props.active ? 'block' : 'none', 'flex'],
+//     pt: ['20px', 0],
+//     pb: [2, 0],
+//   })
+// );
 
 const NavLink = props => (
   <Box
