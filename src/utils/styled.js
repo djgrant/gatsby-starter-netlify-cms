@@ -2,13 +2,25 @@ import { css as emotionCss } from '@emotion/core';
 import cx from '@styled-system/css';
 import { themeGet } from '@styled-system/theme-get';
 
+const interpolateStyles = (styles, get) => {
+  let finalStyles;
+  // Iterate each key/value pair
+  // Is value an array
+  // get breakpoints
+  // get scale values
+  // push styles to final styles
+};
+
 const parseStyles = styles => props => {
+  const boundThemeGet = (...args) => themeGet(...args)(props);
   if (typeof styles === 'function') {
-    const boundThemeGet = (...args) => themeGet(...args)(props);
     return parseStyles(styles(props, boundThemeGet));
   }
   if (typeof styles === 'object') return cx(styles);
   if (typeof styles === 'string') return styles;
+  // if (typeof styles === 'object') {
+  //   return interpolateStyles(styles, boundThemeGet);
+  // }
   return;
 };
 
@@ -38,3 +50,4 @@ export const ifProp = (propKey, styles) => props => {
 export const inline = props => cx(props.css);
 
 export const css = parseStyles;
+export const system = parseStyles;
