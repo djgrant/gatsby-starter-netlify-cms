@@ -1,9 +1,11 @@
 import React from 'react';
 import { navigate } from 'gatsby-link';
 import styled from '@emotion/styled/macro';
+import Article from '../../components/atoms/article';
 import Box from '../../components/atoms/box';
 import Button from '../../components/atoms/button';
 import Jumbotron from '../../components/molecules/jumbotron';
+import ContactForm from '../../components/organisms/contact-form';
 import Layout from '../../components/organisms/layout';
 
 function encode(data) {
@@ -56,67 +58,34 @@ export default class ContactPage extends React.Component {
   render() {
     return (
       <Layout>
-        <Jumbotron>
-          <h1>Contact</h1>
-        </Jumbotron>
         <Box container gutter pt={[3, 4]}>
-          <form
-            name="contact"
-            method="post"
-            action="/contact/thanks/"
-            data-netlify="true"
-            data-netlify-honeypot="bot-field"
-            onSubmit={this.handleSubmit}
-          >
-            {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-            <Fieldset>
-              <input type="hidden" name="form-name" value="contact" />
-              <div hidden>
-                <label>
-                  Don’t fill this out:{' '}
-                  <input name="bot-field" onChange={this.handleChange} />
-                </label>
-              </div>
-            </Fieldset>
-
-            <Fieldset>
-              <label htmlFor={'name'}>Your name</label>
-              <input
-                type={'text'}
-                name={'name'}
-                onChange={this.handleChange}
-                id={'name'}
-                required={true}
-              />
-            </Fieldset>
-
-            <Fieldset>
-              <label htmlFor={'email'}>Email</label>
-              <input
-                type={'email'}
-                name={'email'}
-                onChange={this.handleChange}
-                id={'email'}
-                required={true}
-              />
-            </Fieldset>
-
-            <Fieldset>
-              <label htmlFor={'message'}>Message</label>
-              <textarea
-                name={'message'}
-                onChange={this.handleChange}
-                id={'message'}
-                required={true}
-                width={300}
-                height={20}
-              />
-            </Fieldset>
-
-            <Button type="submit" mt={4}>
-              Send
-            </Button>
-          </form>
+          <h1>Contact</h1>
+          <Box display="flex" flexDirection={['column', 'row']} mt={4}>
+            <Box flex="1" pr={[0, 5]} pb={[4, 0]}>
+              <Article>
+                <p>
+                  You can get in touch with Abenezere directly using the details
+                  below, or by filling out the contact form.
+                </p>
+                <p>
+                  <strong>Mobile:</strong> +251909538319
+                </p>
+                <p>
+                  <strong>Email:</strong>
+                  <table cellpadding={0} cellspacing={0} border={0}>
+                    <tr>
+                      <td>abenezerendal</td>
+                      <td>e1884@gm</td>
+                      <td>ail.com</td>
+                    </tr>
+                  </table>
+                </p>
+              </Article>
+            </Box>
+            <Box flex="1">
+              <ContactForm />
+            </Box>
+          </Box>
         </Box>
       </Layout>
     );
