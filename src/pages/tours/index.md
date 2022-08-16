@@ -72,9 +72,10 @@ Duration: 14 days
 #### Not included 
 - Lunch and dinner 
 - Alcoholic drinks 
-     ## Lalibela
 
+## Lalibela
 ### Introduction
+
 Lalibela is one of king in Zagwe dynasty ruler in Ethiopia at the end of 12th century 
 up to beginning of 13th century.
 He built the 11 medieval monolithic cave Rock-Hewan church at the high 
@@ -82,17 +83,17 @@ Christianity place of Ethiopia and still its pilmigrage and devotion place.
 Lalibela town is located 645km north east of Addis Ababa and the meaning of 
 Lalibela is “the bees recognize his sovereignty “. The church is shaped as Greek 
 cross.The town of Lalibela was known as Roha.
-### Lalibela Tour 
-#### Duration: 3 days
- 
- 
- ##### Day 1
+
+## Lalibela Tour 
+### Duration: 3 days
+
+#### Day 1
 
 - Domestic flight to Lalibela and drive to the town. Start visiting one of the 
 most amazing UNESCO world heritage Rock-Hewn church called Lalibela. Overnight 
 in Hotel.
 
-##### Day 2
+#### Day 2
 
 - Visit Asheton Maryam monastery. The monastery is one of the highest 
 monasteries in Ethiopia set at an altitude of more than 3000 meters-carved in to the 
@@ -104,16 +105,13 @@ Alternatively visitors can drive to nearby and climb on foot. By the starting th
 from the car park, visitors will then be able to pair the trip with a longer trek on to 
 the escarpment for an overnight stay at the beautiful Hudad Lodge.
 
-##### Day 3
+#### Day 3
 
 - Domestic flight back to Addis Ababa. Visit Addis Ababa for half day with 
 cultural dinner.
  
 ## The Simien Mountains 
-
-
 ### General Introduction
-
 
 The Simien Mountains are located 900km from north of Addis Ababa Ethiopia, northeast 
 of the old capital called Gonder. The mountains are comprising 220 square kilometers 
@@ -128,12 +126,8 @@ habitats. The endemic species of the national park are Walia Ibex, Gelada Monkey
 Ethiopian Wolf.
 The park was recognized as one of UNESCO World heritage site.
 
-
-### Simien Mountains National Park Trekking & Hiking 
-
-
+## Simien Mountains National Park Trekking & Hiking 
 #### Tours Introduction 
-
 
 The nearest major city to the Simien Mountains is Gondar. Which is easily accessed by
 via Ethiopian domestic flight network. It is possible to spend up to two weeks trekking, 
@@ -142,14 +136,17 @@ There are Two loges and nine campsites, the major campsites are Sankaber, Gich &
 Chennek. Simien lodge is Africa’s highest lodge and site inside the national park. And out 
 side the park their is arguably Ethiopia’s finest lodge, Limalimo Lodge. The visitors should 
 have to booked in advance.
+
+
 ### The major trekking routes are:-
-##### 1- Buit Ras to Jinbar Fall
-##### 2- Sankaber to Chennek 
-##### 3- Hike to Imet Gogo
-##### 4- Hike to Mt. Bwahit
-##### 5- Hike to Ras Dashen 
-##### 6- Highland to Lowland trek
-##### 7- Lowland trek to Adi Arkay.
+- Buit Ras to Jinbar Fall
+- Sankaber to Chennek 
+- Hike to Imet Gogo
+- Hike to Mt. Bwahit
+- Hike to Ras Dashen 
+- Highland to Lowland trek
+- Lowland trek to Adi Arkay.
+
 ## Simien Mountains Tour
 ### Duration : 9 Days 
 
@@ -161,8 +158,8 @@ acclimatization hiking route between Debark and Sankaber for 2-3 hours and 7km l
 You’ll ascend Over 3000 meters above sea level, surrounded by jagged peaks and Gelada
 Baboons. When you arrived at Sankaber, you’ll have delicious dinner and big welcoming 
 at the campsite.
--Route : Debark to Sankaber(3200m)
--Length of hike: 2-3 hours, 7km
+- Route : Debark to Sankaber(3200m)
+- Length of hike: 2-3 hours, 7km
 
 #### Day 2
 
@@ -175,8 +172,8 @@ A highlight of today’s trek is Genbar Falls, a waterfall is an incredible shee
 500m. After a break for lunch you’ll visit traditional villages. Geech camp is great spot to 
 watch Gelada Baboons when they climbing down the precipitous slopes to their caves in 
 cliffs below. You’ll enjoy sun set on a grassy plateau.
--Route: Sankaber to Geech (3,600m)
--Length of hike: 5-6 hours, 15km
+- Route: Sankaber to Geech (3,600m)
+- Length of hike:2-3 hours,7km
 
 #### Day 3
 
@@ -203,14 +200,14 @@ the eastern side of the village where you’ll camp simply.
 
 #### Day 5 
 
-Today you’ll head up to tallest mountain in Ethiopia called Ras Dejen(Dashen). You’ll 
+- Today you’ll head up to tallest mountain in Ethiopia called Ras Dejen(Dashen). You’ll 
 arrive at the moorland top where the dirt road disappears and gives way to remove 
 villages as your trail turns north-east and shake up the final peak. In true explore fashion,
 reaching to the top requires a couple of hand holds and man-oeuvres.
 At maximum elevation you will enjoy and relax unbelievable view from 4,533 meters up. 
 Menteber is village and where you’ll camp awaits.
--Route: Ambiko to Menteber
--Length of hike : 11 hours, 23km
+- Route: Ambiko to Menteber
+- Length of hike : 11 hours, 23km
 
 #### Day 6
 
@@ -221,7 +218,6 @@ enough mountain. Conquering, you can trek up Abba Yared at 4,409 meters before
 joining the live stock paths that head towards your campsite at Arkwassie(3600m). From 
 here it’s pretty much all down hill as you press on to our campsite.
 - Route: Menteber to Arkwassie
-
 - Length of trek: 12 hours, 25km
 
 #### Day 7 
@@ -248,4 +244,6 @@ you’ll arrive to Picturesque village of Mullit (2050m).
 onward journey but we do recommend you to spend night at the incredible Limalimo 
 Lodge to relax after your adventure.
 
-#### What ever your budgets, group size, length of stay, preferred activity or appetite for adventure,We can help.
+#### What ever your budgets, group size, length of stay, preferred activity or appetite for adventure,We can help. 
+
+
