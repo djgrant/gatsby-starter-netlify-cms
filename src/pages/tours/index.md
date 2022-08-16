@@ -74,6 +74,7 @@ Duration: 14 days
 - Alcoholic drinks 
 
 
+   
     ## Lalibela
 
 ### Introduction
@@ -86,8 +87,10 @@ Lalibela town is located 645km north east of Addis Ababa and the meaning of
 Lalibela is “the bees recognize his sovereignty “. The church is shaped as Greek 
 cross.The town of Lalibela was known as Roha.
 
+ 
  #### Lalibela Tour 
  Duration: 3 days
+ 
  
  ##### Day 1
 
@@ -114,7 +117,9 @@ cultural dinner.
  
 ## The Simien Mountains 
 
-#### General Introduction
+
+### General Introduction
+
 
 The Simien Mountains are located 900km from north of Addis Ababa Ethiopia, northeast 
 of the old capital called Gonder. The mountains are comprising 220 square kilometers 
@@ -129,9 +134,12 @@ habitats. The endemic species of the national park are Walia Ibex, Gelada Monkey
 Ethiopian Wolf.
 The park was recognized as one of UNESCO World heritage site.
 
+
 ### Simien Mountains National Park Trekking & Hiking 
 
+
 #### Tours Introduction 
+
 
 The nearest major city to the Simien Mountains is Gondar. Which is easily accessed by
 via Ethiopian domestic flight network. It is possible to spend up to two weeks trekking, 
@@ -141,25 +149,38 @@ Chennek. Simien lodge is Africa’s highest lodge and site inside the national p
 side the park their is arguably Ethiopia’s finest lodge, Limalimo Lodge. The visitors should 
 have to booked in advance.
 
+
 ### The major trekking routes are:-
+
 
 ##### 1- Buit Ras to Jinbar Fall
 
+
 ##### 2- Sankaber to Chennek 
+
 
 ##### 3- Hike to Imet Gogo
 
+
 ##### 4- Hike to Mt. Bwahit
+
 
 ##### 5- Hike to Ras Dashen 
 
+
 ##### 6- Highland to Lowland trek
+
 
 ##### 7- Lowland trek to Adi Arkay.
  
- ## Nine Days Itinerary 
 
-##### - Day 1 : Gondar to Sankaber
+## Nine Days Itinerary 
+
+
+#### Day 1
+
+### Gondar to Sankaber
+
 
 A car will pick you up from Gondar and drive for 2 hours and half to Debark. At Debark
 you’ll meet trekking leader, scout and Simien Mountains National Park. You’ll have an 
@@ -168,12 +189,16 @@ You’ll ascend Over 3000 meters above sea level, surrounded by jagged peaks and
 Baboons. When you arrived at Sankaber, you’ll have delicious dinner and big welcoming 
 at the campsite.
 
+
 Route : Debark to Sankaber(3200m)
 
 Length of hike: 2-3 hours, 7km
 
 
-##### - Day 2 : Sankaber to Geech 
+##### Day 2
+
+### Sankaber to Geech 
+
 
 After a nourishing breakfast you’ll star to the long ridge. There’s a wonderful vantage 
 point which offers some incredible views over the foothills some 800 meter below.
@@ -185,11 +210,15 @@ A highlight of today’s trek is Genbar Falls, a waterfall is an incredible shee
 watch Gelada Baboons when they climbing down the precipitous slopes to their caves in 
 cliffs below. You’ll enjoy sun set on a grassy plateau.
 
+
 Route: Sankaber to Geech (3,600m)
 
 Length of hike: 5-6 hours, 15km
 
-##### - Day 3 : Geech to Imet Gogo
+
+##### Day 3
+
+### Geech to Imet Gogo
 
 Today you’ll head to 3,926 meters with an incredible view of 360 degree Simien Range. 
 At the pick of the mountain you can see west back toward Sankaber and Geech, and 
@@ -199,11 +228,15 @@ on the moorland which is the second highest peak in the western part of the park
 Inyatye. Spend night at Chenek camp which is best spot to see both Ethiopain Wolves and 
 Walia Ibex.
 
+
 Route: Geech to Chenek
 
 Length of hike: 7-8 hours, 18km
 
-##### - Day 4 : Chenek to Mount Bwahit
+
+##### Day 4 
+
+### Chenek to Mount Bwahit
 
 The third highest mountain in Ethiopia is located about 16km west of Ras Dashen
 standing at an impressive 4430m. The hike is quite a steep walk. You will have best 
@@ -212,11 +245,15 @@ After regular breaks we will pass by farm land, new settlement of liruLeba and s
 for well deserved (soft drink or beer). The trail will continues down and heading up to 
 the eastern side of the village where you’ll camp simply.
 
+
 Route: Chenek to Ambiko
 
 Length of hike: 5-6 hours 
 
-##### - Day 5 : Ambiko to Ras Dashen
+
+##### Day 5 
+
+### Ambiko to Ras Dashen
 
 Today you’ll head up to tallest mountain in Ethiopia called Ras Dejen(Dashen). You’ll 
 arrive at the moorland top where the dirt road disappears and gives way to remove 
@@ -225,11 +262,15 @@ reaching to the top requires a couple of hand holds and man-oeuvres.
 At maximum elevation you will enjoy and relax unbelievable view from 4,533 meters up. 
 Menteber is village and where you’ll camp awaits.
 
+
 Route: Ambiko to Menteber
 
 Length of hike : 11 hours, 23km
 
-##### - Day 6 : Kiddus Yared
+
+##### Day 6
+
+### Kiddus Yared
 
 Rise with the sun over some warming porridge before starting your ascent up Kiddis 
 Yared, The second highest peak in the Simien range.
@@ -238,43 +279,49 @@ enough mountain. Conquering, you can trek up Abba Yared at 4,409 meters before
 joining the live stock paths that head towards your campsite at Arkwassie(3600m). From 
 here it’s pretty much all down hill as you press on to our campsite.
 
+
 Route: Menteber to Arkwassie
 
 Length of trek: 12 hours, 25km
 
-##### - Day 7: Meker Abiye
+
+##### Day 7 
+
+### Meker Abiye
 
 You’ll head over the ridge and down to the northern lowland of the park. The path cling 
 to the highland and leads to a pretty location called Sana (3020m) at the bottom, there 
 is swimming river at (2000m) altitude. Meker Abiya is pretty village underneath Imet 
 Gogo. You’ll relax and enjoy in the campsite view of the mountain top in the distance.
 
+
 Route: Arkwassie to Meker Abiya
 
 Length of trek: 7-8 hours, 21km
 
-##### - Day 8: Mullit
+
+##### Day 8
+
+### Mullit
 
 Is the easiest walk of the trip with the set of along river valley and back over onto the 
 ridge. There are attractive villages and farmland with the Omnipresent peaks of the Simien 
 range at the background. After you enjoyed swimming and coffee in one of the villages 
 you’ll arrive to Picturesque village of Mullit (2050m).
 
+
 Route: Meker Abiya to Mullit 
 
 Length of trek: 5-6 hours, 17km
 
 
-##### - Day 9: Limalimo Lodge or Debark
 
+##### Day 9
+
+### Limalimo Lodge or Debark
 
 From Mullit is short walk to town of Adigrat Arkay. You can return to Debark for your 
 onward journey but we do recommend you to spend night at the incredible Limalimo 
 Lodge to relax after your adventure.
 
-###### What ever your budgets, group size, length of stay, preferred activity or appetite for adventure,We can help.
-
-
-
-
-
+### What ever your budgets, group size, length of stay, preferred activity or appetite for adventure,We can help.
