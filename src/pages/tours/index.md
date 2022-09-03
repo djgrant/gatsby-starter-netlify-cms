@@ -18,21 +18,21 @@ We will go to Merkato, the biggest open market in Africa. We will also go to Shr
 
 ## Ethiopia Center Tour Experience 
 
+
 ### Deber Libanos  
 
 #### Duration one day 
 
 - We will drive out 110km (about 68.35 mi) ride out from Addis Ababa to north of Ethiopia. On this tour we will see Blue Nile gorge and water fall and visit one of historical church and monastery. Deber Libanos (the Blue Nile) it’s one of longest Rift Valley with Monastery and complex sits on a terrace between a cliff and the gorge of one of the tributaries of Abbay River. We welcome you to visit such combinations of natural and historical places in Ethiopia.  
 
- 
-
-### Menagesh Suba Park & Wenchi Crater Lake 
+ ### Menagesh Suba Park & Wenchi Crater Lake 
 
 #### Duration one day   
 
  - Menagesh is one of national forest established 15 centuries by Emperor Zara Yaqoob. The park is located 55km (about 34.18 mi) to the west from capital and the hiking field is 3385 meters (about 2.1 mi) above sea level. The forest is the consisting of indigenous trees more than 400 years old. It's well-known park for bird's watcher especially endemic birds and animals such as the Abyssinian Catbird and the Menelik Bush Buck.  
 
  ### Note 
+ 
 The possibility is driving to the next destination called Wenchi. 2 hr 34 min (117.1km) and overnight campaign in crater lake. 
 
 ### Wenchi Crater Lake 
@@ -51,9 +51,7 @@ Wenchi lake is place of eco touristic site holds of hot spring, waterfalls & val
 - Drive back 45km to Adadi Mariam. 
 Adadi Mariam is Seventy Six rock-hewan Monolithic church built by king Lalibela on be half of 12 century. Adadi Mariam is located 68km south west of Addis Ababa at the prehistorical site of Melka Kunture, which is listed as one of UNESCO world heritage site.  
 
- 
-#### We can arrange accommodation and meals, at your request.
-
+ #### We can arrange accommodation and meals, at your request.
 
 ## Rift Valley & Omo Tribes 
 
