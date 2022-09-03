@@ -7,7 +7,7 @@ import Card from '../components/atoms/card';
 
 export default () => (
   <Layout>
-    <Jumbotron image=Hawassa sunset.jpg>
+     <Jumbotron image="/img/cityscape.jpg" /> 
     <Box container gutter>
       <Article pt={[4, 4]} pb={[4, 5]}>
         <h2>Personal tour operator with a trusted independent guide</h2>
