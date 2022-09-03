@@ -16,13 +16,43 @@ Duration: half day
 
 We will go to Merkato, the biggest open market in Africa. We will also go to Shro Meda, the market for traditional Ethiopian clothes, the leather shops in Stadium area and the pottery shops in Kachane.
 
-## Trip to Hawassa
+## Ethiopia Center Tour Experience 
 
-Duration: 3 days
+### Deber Libanos  
 
-We will take the bus from Addis to Hawassa – 275Km (about 3.5 hours) in the morning. We will have lunch in Hawassa, famous for its delicious fish. In the afternoon, we will go to Hawassa lake and stay there until the sunset. There are many options for nightlife if you like. The next day (very early in the morning), we will go to the fish market. Afterwards, we can travel by local transport to Wondo Ganat, the natual hot springs from the mountains discovered by King Haile Silassie. On the third day we will travel back to Addis, where we can have an optional stopover at Shashamanne to meet the famous Rastafarian community.
+#### Duration one day 
 
-We can arrange accommodation and meals, at your request.
+- We will drive out 110km (about 68.35 mi) ride out from Addis Ababa to north of Ethiopia. On this tour we will see Blue Nile gorge and water fall and visit one of historical church and monastery. Deber Libanos (the Blue Nile) it’s one of longest Rift Valley with Monastery and complex sits on a terrace between a cliff and the gorge of one of the tributaries of Abbay River. We welcome you to visit such combinations of natural and historical places in Ethiopia.  
+
+ 
+
+### Menagesh Suba Park & Wenchi Crater Lake 
+
+#### Duration one day   
+
+ - Menagesh is one of national forest established 15 centuries by Emperor Zara Yaqoob. The park is located 55km (about 34.18 mi) to the west from capital and the hiking field is 3385 meters (about 2.1 mi) above sea level. The forest is the consisting of indigenous trees more than 400 years old. It's well-known park for bird's watcher especially endemic birds and animals such as the Abyssinian Catbird and the Menelik Bush Buck.  
+
+ ### Note 
+The possibility is driving to the next destination called Wenchi. 2 hr 34 min (117.1km) and overnight campaign in crater lake. 
+
+### Wenchi Crater Lake 
+
+#### Duration one day 
+
+- Lake Wenchi is one of a popular tourist destination in Ethiopia which is located 168km (about 104.39 mi) south west Shewa zone. The lake is created because of second highest volcanic eruption from Mount Denda. It is 400m(1300ft) deep.  
+Wenchi lake is place of eco touristic site holds of hot spring, waterfalls & valleys, and two Islands. Riding horses is common culture and Wenchi is blessed with verities of animal and plant species. The WTO has named Wenchi among the world’s best tourism villages at its annual event held in Madrid. 
+
+### Tiya & Adadi Mariam  
+
+#### Duration one Day  
+
+ - Tiya is archaeological site town located in central part of Ethiopia 87km from the capital Addis Ababa. Tiya listed on UNESCO world heritage in 1980, it is one of three town in Soddo Woreda with 160 archaeological sites and 32 carvide Stelae.  
+
+- Drive back 45km to Adadi Mariam. 
+Adadi Mariam is Seventy Six rock-hewan Monolithic church built by king Lalibela on be half of 12 century. Adadi Mariam is located 68km south west of Addis Ababa at the prehistorical site of Melka Kunture, which is listed as one of UNESCO world heritage site.  
+
+ 
+#### We can arrange accommodation and meals, at your request.
 
 
 ## Rift Valley & Omo Tribes 
@@ -245,6 +275,4 @@ onward journey but we do recommend you to spend night at the incredible Limalimo
 Lodge to relax after your adventure.
 
 #### What ever your budgets, group size, length of stay, preferred activity or appetite for adventure,We can help. 
-
-
 
