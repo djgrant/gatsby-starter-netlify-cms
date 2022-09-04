@@ -12,16 +12,21 @@ export default () => (
       <Article pt={[4, 4]} pb={[4, 5]}>
         <h2>Personal tour operator with a trusted independent guide</h2>
         <p>
-          Welcome to Addis Ababa! Ethiopia's thriving capital city and
-          historical center. My name is Abenezere Endale and it is a pleasure to
-          welcome you to my city.
+          Welcome to Addis Ababa! Ethiopia the thriving capital city and
+          historical center. We got place for international visiters to explore
+          and experience a great Ethiopia starting from the capital up to the 
+          indigenous historical and natural attraction sites.
+          We offer a selection of tours that can be tailored to fit in with your
+          travel ambitions. Our priority is to make your trip to Ethiopia as 
+          enjoyable as possible by offering you our local knowledge and helping 
+          you to navigate your way through Addis Ababa,Ethiopia.
+          Our drivers perform well in every extereme Ethiopia attraction sites.
+          In highest and lowest geographical landscapes, they are well attended
+          to concern about your safety and they are punctual always. 
         </p>
         <h3>The traveller first</h3>
         <p>
-          I offer a selection of tours that can be tailored to fit in with your
-          travel ambitions. My priority is to make your trip to Ethiopia as
-          enjoyable as possible by offering you my local knowledge and helping
-          you navigate your way through Addis Ababa and the Ethiopian South.
+           Great experience & amazing hospitality 
         </p>
         {/* <a href="/tours" className="button">
           View All Tours
