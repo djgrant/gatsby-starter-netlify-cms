@@ -26,7 +26,7 @@ export default () => (
         </p>
         <h3>The traveller first</h3>
         <p>
-           Great experience & amazing hospitality 
+           Great experience & amazing hospitality !
         </p>
         {/* <a href="/tours" className="button">
           View All Tours
