@@ -12,7 +12,8 @@ export default () => (
       <Article pt={[4, 4]} pb={[4, 5]}>
         <h2>Personal tour operator with a trusted independent guide</h2>
         <p>
-          Welcome to Addis Ababa! Ethiopia the thriving capital city and
+          <h3>Every where is your home</h3>
+          Welcome to Addis Ababa,Ethiopia the thriving capital city and
           historical center. We got place for international visiters to explore
           and experience a great Ethiopia starting from the capital up to the 
           indigenous historical and natural attraction sites.
