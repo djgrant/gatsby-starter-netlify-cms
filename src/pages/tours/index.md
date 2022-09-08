@@ -49,6 +49,23 @@ Duration : one Day
 Adadi Mariam is Seventy Six rock-hewan Monolithic church built by king Lalibela on be half of 12 century. Adadi Mariam is located 68km south west of Addis Ababa at the prehistorical site of Melka Kunture, which is listed as one of UNESCO world heritage site.  
 
  #### We can arrange accommodation and meals, at your request.
+ 
+ <details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 
 ## Rift Valley & Omo Tribes 
 
@@ -98,6 +115,23 @@ Duration: 14 days
 - Lunch and dinner 
 - Alcoholic drinks 
 
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
 ## Lalibela
 
 ### Introduction
@@ -110,6 +144,22 @@ Lalibela town is located 645km north east of Addis Ababa and the meaning of
 Lalibela is “the bees recognize his sovereignty “. The church is shaped as Greek 
 cross.The town of Lalibela was known as Roha.
 
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 ## Lalibela Tour 
 
 ### Duration: 3 days
@@ -136,6 +186,23 @@ the escarpment for an overnight stay at the beautiful Hudad Lodge.
 
 - Domestic flight back to Addis Ababa. Visit Addis Ababa for half day with 
 cultural dinner.
+
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
  
 ## The Simien Mountains 
 ### General Introduction
