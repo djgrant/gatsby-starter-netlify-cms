@@ -2,10 +2,11 @@
 templateKey: 'about-page'
 path: /tours
 title: Tours
----
-## Ethiopia Centeral Tour Experience 
-### Addis Ababa City Tour
-
+--- 
+## Addis Ababa City Tour
+ 
+ <details>
+ 
 Duration: half day
 
 - In this tour, we will go to the Bata Mariam church to see the original painting of Michelangelo, and the National Museum to see Lucy, the first human being skeleton. We will go to the Ethnological museum in the beautiful Addis Ababa university. We will have a coffee at Tomoca, the first coffee house in Ethiopia.
@@ -15,7 +16,18 @@ Duration: half day
 Duration: half day
 
 - We will go to Merkato, the biggest open market in Africa. We will also go to Shro Meda, the market for traditional Ethiopian clothes, the leather shops in Stadium area and the pottery shops in Kachane. 
+ 
+ ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 
+ ## Ethiopia Centeral Tour Experience
+ 
+ <details>
+  
 ### Deber Libanos  
 
 Duration: one day 
@@ -49,9 +61,18 @@ Duration : one Day
 Adadi Mariam is Seventy Six rock-hewan Monolithic church built by king Lalibela on be half of 12 century. Adadi Mariam is located 68km south west of Addis Ababa at the prehistorical site of Melka Kunture, which is listed as one of UNESCO world heritage site.  
 
  #### We can arrange accommodation and meals, at your request.
-
+ 
+ ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+  
 ## Rift Valley & Omo Tribes 
-
+ 
+ <details>
+   
 Duration: 14 days
 
 - Day 1: International arrival at Ethiopia, Bole airport and directly transfer overnight hotel in Addis Ababa. 
@@ -97,9 +118,18 @@ Duration: 14 days
 #### Not included 
 - Lunch and dinner 
 - Alcoholic drinks 
+ 
+```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 
 ## Lalibela
 
+ <details>
+    
 ### Introduction
 
 Lalibela is one of king in Zagwe dynasty ruler in Ethiopia at the end of 12th century 
@@ -137,7 +167,17 @@ the escarpment for an overnight stay at the beautiful Hudad Lodge.
 - Domestic flight back to Addis Ababa. Visit Addis Ababa for half day with 
 cultural dinner.
  
+```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details> 
+ 
 ## The Simien Mountains 
+    
+  <details>
+     
 ### General Introduction
 
 The Simien Mountains are located 900km from north of Addis Ababa Ethiopia, northeast 
