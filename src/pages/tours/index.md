@@ -5,7 +5,7 @@ title: Tours
 --- 
 ## Addis Ababa City Tour
  
- <details>
+  <details> 
  
 Duration: half day
 
@@ -16,17 +16,12 @@ Duration: half day
 Duration: half day
 
 - We will go to Merkato, the biggest open market in Africa. We will also go to Shro Meda, the market for traditional Ethiopian clothes, the leather shops in Stadium area and the pottery shops in Kachane. 
- 
- ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
 
+</details>
+ 
  ## Ethiopia Centeral Tour Experience
  
- <details>
+  <details>
   
 ### Deber Libanos  
 
@@ -61,18 +56,13 @@ Duration : one Day
 Adadi Mariam is Seventy Six rock-hewan Monolithic church built by king Lalibela on be half of 12 century. Adadi Mariam is located 68km south west of Addis Ababa at the prehistorical site of Melka Kunture, which is listed as one of UNESCO world heritage site.  
 
  #### We can arrange accommodation and meals, at your request.
- 
- ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
+  
+  </details>
   
 ## Rift Valley & Omo Tribes 
- 
- <details>
    
+   <details>
+ 
 Duration: 14 days
 
 - Day 1: International arrival at Ethiopia, Bole airport and directly transfer overnight hotel in Addis Ababa. 
@@ -118,18 +108,13 @@ Duration: 14 days
 #### Not included 
 - Lunch and dinner 
 - Alcoholic drinks 
- 
-```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
 
+ </details>
+  
 ## Lalibela
-
+ 
  <details>
-    
+ 
 ### Introduction
 
 Lalibela is one of king in Zagwe dynasty ruler in Ethiopia at the end of 12th century 
@@ -167,17 +152,12 @@ the escarpment for an overnight stay at the beautiful Hudad Lodge.
 - Domestic flight back to Addis Ababa. Visit Addis Ababa for half day with 
 cultural dinner.
  
-```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details> 
+ </details>
  
 ## The Simien Mountains 
-    
-  <details>
-     
+ 
+ <details>
+  
 ### General Introduction
 
 The Simien Mountains are located 900km from north of Addis Ababa Ethiopia, northeast 
@@ -312,4 +292,4 @@ onward journey but we do recommend you to spend night at the incredible Limalimo
 Lodge to relax after your adventure.
 
 #### What ever your budgets, group size, length of stay, preferred activity or appetite for adventure,We can help. 
-
+  
