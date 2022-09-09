@@ -3,6 +3,7 @@ templateKey: 'about-page'
 path: /tours
 title: Tours
 --- 
+
 ## Addis Ababa City Tour
  
   <details> 
@@ -11,25 +12,25 @@ Duration: half day
 
 - In this tour, we will go to the Bata Mariam church to see the original painting of Michelangelo, and the National Museum to see Lucy, the first human being skeleton. We will go to the Ethnological museum in the beautiful Addis Ababa university. We will have a coffee at Tomoca, the first coffee house in Ethiopia.
 
-### Addis Ababa Markets Tour
+  ### Addis Ababa Markets Tour
 
 Duration: half day
 
 - We will go to Merkato, the biggest open market in Africa. We will also go to Shro Meda, the market for traditional Ethiopian clothes, the leather shops in Stadium area and the pottery shops in Kachane. 
-
+ 
 </details>
  
- ## Ethiopia Centeral Tour Experience
+## Ethiopia Centeral Tour Experience
  
   <details>
   
-### Deber Libanos  
+ ### Deber Libanos  
 
 Duration: one day 
 
 - We will drive out 110km (about 68.35 mi) ride out from Addis Ababa to north of Ethiopia. On this tour we will see Blue Nile gorge and water fall and visit one of historical church and monastery. Deber Libanos (the Blue Nile) it’s one of longest Rift Valley with Monastery and complex sits on a terrace between a cliff and the gorge of one of the tributaries of Abbay River. We welcome you to visit such combinations of natural and historical places in Ethiopia.  
 
-### Menagesh Suba Park & Wenchi Crater Lake 
+ ### Menagesh Suba Park & Wenchi Crater Lake 
 
 Duration : one day   
 
@@ -39,14 +40,14 @@ Duration : one day
  
 - The possibility is driving to the next destination called Wenchi. 2 hr 34 min (117.1km) and overnight campaign in crater lake. 
 
-### Wenchi Crater Lake 
+ ### Wenchi Crater Lake 
 
 Duration : one day 
 
 - Lake Wenchi is one of a popular tourist destination in Ethiopia which is located 168km (about 104.39 mi) south west Shewa zone. The lake is created because of second highest volcanic eruption from Mount Denda. It is 400m(1300ft) deep.  
 Wenchi lake is place of eco touristic site holds of hot spring, waterfalls & valleys, and two Islands. Riding horses is common culture and Wenchi is blessed with verities of animal and plant species. 
 
-### Tiya & Adadi Mariam  
+ ### Tiya & Adadi Mariam  
 
 Duration : one Day  
 
@@ -56,8 +57,8 @@ Duration : one Day
 Adadi Mariam is Seventy Six rock-hewan Monolithic church built by king Lalibela on be half of 12 century. Adadi Mariam is located 68km south west of Addis Ababa at the prehistorical site of Melka Kunture, which is listed as one of UNESCO world heritage site.  
 
  #### We can arrange accommodation and meals, at your request.
-  
-  </details>
+
+ </details>
   
 ## Rift Valley & Omo Tribes 
    
@@ -94,7 +95,7 @@ Duration: 14 days
 - Day 14: Leisure time in Addis Ababa, and Enjoy with Ethiopian traditional coffee and dinner at Ethiopian cultural restaurant, flight back to the departure, 
 
 
-### Package includes 
+ ### Package includes 
 - Guest houses and hotel with breakfast 
 - Ground transportations  throughout tour with fuel and driver 
 - Service in Addis Ababa
@@ -105,17 +106,17 @@ Duration: 14 days
 - Boat ride over lake chamo
 - Scout in Mago national park
 
-#### Not included 
+ #### Not included 
 - Lunch and dinner 
 - Alcoholic drinks 
-
+ 
  </details>
   
 ## Lalibela
  
- <details>
+  <details>
  
-### Introduction
+  ### Introduction
 
 Lalibela is one of king in Zagwe dynasty ruler in Ethiopia at the end of 12th century 
 up to beginning of 13th century.
@@ -127,7 +128,7 @@ cross.The town of Lalibela was known as Roha.
 
 ## Lalibela Tour 
 
-### Duration: 3 days
+Duration: 3 days
 
 #### Day 1
 
@@ -154,11 +155,11 @@ cultural dinner.
  
  </details>
  
-## The Simien Mountains 
+ ## The Simien Mountains 
  
  <details>
   
-### General Introduction
+  ### General Introduction
 
 The Simien Mountains are located 900km from north of Addis Ababa Ethiopia, northeast 
 of the old capital called Gonder. The mountains are comprising 220 square kilometers 
@@ -293,3 +294,4 @@ Lodge to relax after your adventure.
 
 #### What ever your budgets, group size, length of stay, preferred activity or appetite for adventure,We can help. 
   
+</details>
