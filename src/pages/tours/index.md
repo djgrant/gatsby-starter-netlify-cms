@@ -17,7 +17,6 @@ Duration: half day
 - We will go to Merkato, the biggest open market in Africa. We will also go to Shro Meda, the market for traditional Ethiopian clothes, the leather shops in Stadium area and the pottery shops in Kachane.
  
 ## Ethiopia Centeral Tour Experience
-  
   ### Deber Libanos  
 
 Duration: one day 
@@ -51,10 +50,8 @@ Duration : one Day
 Adadi Mariam is Seventy Six rock-hewan Monolithic church built by king Lalibela on be half of 12 century. Adadi Mariam is located 68km south west of Addis Ababa at the prehistorical site of Melka Kunture, which is listed as one of UNESCO world heritage site.  
 
  #### We can arrange accommodation and meals, at your request.
-  
-## Rift Valley & Omo Tribes 
- 
-Duration: 14 days
+ ## Rift Valley & Omo Tribes 
+ Duration: 14 days
 
 - Day 1: International arrival at Ethiopia, Bole airport and directly transfer overnight hotel in Addis Ababa. 
 
@@ -100,8 +97,7 @@ Duration: 14 days
 - Alcoholic drinks 
   
 ## Lalibela
- 
-  ### Introduction
+### Introduction
 
 Lalibela is one of king in Zagwe dynasty ruler in Ethiopia at the end of 12th century 
 up to beginning of 13th century.
@@ -112,7 +108,6 @@ Lalibela is “the bees recognize his sovereignty “. The church is shaped as G
 cross.The town of Lalibela was known as Roha.
 
 ## Lalibela Tour 
-
 Duration: 3 days
 
 #### Day 1
@@ -139,8 +134,7 @@ the escarpment for an overnight stay at the beautiful Hudad Lodge.
 cultural dinner.
  
  ## The Simien Mountains 
-  
-  ### General Introduction
+ ### General Introduction
 
 The Simien Mountains are located 900km from north of Addis Ababa Ethiopia, northeast 
 of the old capital called Gonder. The mountains are comprising 220 square kilometers 
