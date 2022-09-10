@@ -10,7 +10,7 @@ Duration: half day
 
 - In this tour, we will go to the Bata Mariam church to see the original painting of Michelangelo, and the National Museum to see Lucy, the first human being skeleton. We will go to the Ethnological museum in the beautiful Addis Ababa university. We will have a coffee at Tomoca, the first coffee house in Ethiopia.
 
-  ### Addis Ababa Markets Tour
+### Addis Ababa Markets Tour
 
 Duration: half day
 
@@ -23,7 +23,7 @@ Duration: one day
 
 - We will drive out 110km (about 68.35 mi) ride out from Addis Ababa to north of Ethiopia. On this tour we will see Blue Nile gorge and water fall and visit one of historical church and monastery. Deber Libanos (the Blue Nile) it’s one of longest Rift Valley with Monastery and complex sits on a terrace between a cliff and the gorge of one of the tributaries of Abbay River. We welcome you to visit such combinations of natural and historical places in Ethiopia.  
 
-  ### Menagesh Suba Park & Wenchi Crater Lake 
+### Menagesh Suba Park & Wenchi Crater Lake 
 
 Duration : one day   
 
@@ -33,14 +33,14 @@ Duration : one day
  
 - The possibility is driving to the next destination called Wenchi. 2 hr 34 min (117.1km) and overnight campaign in crater lake. 
 
-  ### Wenchi Crater Lake 
+### Wenchi Crater Lake 
 
 Duration : one day 
 
 - Lake Wenchi is one of a popular tourist destination in Ethiopia which is located 168km (about 104.39 mi) south west Shewa zone. The lake is created because of second highest volcanic eruption from Mount Denda. It is 400m(1300ft) deep.  
 Wenchi lake is place of eco touristic site holds of hot spring, waterfalls & valleys, and two Islands. Riding horses is common culture and Wenchi is blessed with verities of animal and plant species. 
 
-  ### Tiya & Adadi Mariam  
+### Tiya & Adadi Mariam  
 
 Duration : one Day  
 
@@ -133,7 +133,8 @@ the escarpment for an overnight stay at the beautiful Hudad Lodge.
 - Domestic flight back to Addis Ababa. Visit Addis Ababa for half day with 
 cultural dinner.
  
- ## The Simien Mountains 
+ ## The Simien Mountains
+ 
  ### General Introduction
 
 The Simien Mountains are located 900km from north of Addis Ababa Ethiopia, northeast 
@@ -150,9 +151,10 @@ Ethiopian Wolf.
 The park was recognized as one of UNESCO World heritage site.
 
 ## Simien Mountains National Park Trekking & Hiking 
+
 #### Tours Introduction 
 
-The nearest major city to the Simien Mountains is Gondar. Which is easily accessed by
+- The nearest major city to the Simien Mountains is Gondar. Which is easily accessed by
 via Ethiopian domestic flight network. It is possible to spend up to two weeks trekking, 
 that will be both the highland and Lowland part.
 There are Two loges and nine campsites, the major campsites are Sankaber, Gich & 
