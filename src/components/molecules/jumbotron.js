@@ -11,7 +11,7 @@ const Jumbotron = ({ children, image, ...props }) => (
           ? image.childImageSharp.fluid.src
           : image
       })`,
-      backgroundPosition: `bottom`,
+      backgroundPosition: props.position || "bottom",
       backgroundSize: 'cover',
       marginTop: '-1px',
     }}
